@@ -1,0 +1,9 @@
+[submodule "omnistack-frontend"]
+	path = omnistack-frontend
+	url = https://github.com/JoaoPedro1999/omnistack-frontend.git
+[submodule "omnistack-backend"]
+	path = omnistack-backend
+	url = https://github.com/JoaoPedro1999/omnistack-backend.git
+[submodule "omnistack-mobile"]
+	path = omnistack-mobile
+	url = https://github.com/JoaoPedro1999/omnistack-mobile.git
